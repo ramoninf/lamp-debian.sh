@@ -1,3 +1,10 @@
+#======================================================================================
+Autor:Ivens Ramon
+Instalar lamp no Debian
+versão:1.0
+contato:ivens-oliveira@hotmail.com
+#============================================================================================================
+
 sudo apt update && sudo apt upgrade -y
 echo
 sudo apt install apache2 apache2-utils -y
